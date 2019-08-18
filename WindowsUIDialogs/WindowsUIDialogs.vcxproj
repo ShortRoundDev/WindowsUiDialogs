@@ -149,6 +149,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="ColorPicker.h" />
+    <ClInclude Include="Custom.h" />
     <ClInclude Include="DeclSpec.h" />
     <ClInclude Include="OpenFile.h" />
     <ClInclude Include="SaveFile.h" />
@@ -160,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ColorPicker.cpp" />
+    <ClCompile Include="Custom.cpp" />
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="OpenFile.cpp" />
     <ClCompile Include="SaveFile.cpp" />
