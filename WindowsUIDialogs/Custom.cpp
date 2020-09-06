@@ -46,7 +46,7 @@ wchar_t* CustomUI(const wchar_t** _Pairs, const wchar_t** _TypeInfo, int _PairNu
 			break;
 		}
 		hWndBoxes[i]		= CreateLabel(Pairs[i], i * 10);
-		hWndBoxes[i + 1]	= CreateEditBox(Pairs[i + 1], i * 10);
+		hWndBoxes[i + 1]	= CreateEditBox(Pairs[i + 1], i * 10, TypeInfo[i/2]);
 	}
 
 	CustomOk = CreateWindow(
@@ -73,13 +73,14 @@ wchar_t* CustomUI(const wchar_t** _Pairs, const wchar_t** _TypeInfo, int _PairNu
 }
 
 
-HWND CreateEditBox(const wchar_t* Val, int Y) {
+HWND CreateEditBox(const wchar_t* Val, int Y, wchar_t* Type) {
 	return CreateWindowExW(
 		WS_EX_CLIENTEDGE,
 		L"Edit",
 		Val,
-		WS_CHILD | WS_VISIBLE | WS_BORDER,
-		150, Y, 145, 20,
+		WS_CHILD | WS_VISIBLE | WS_BORDER |
+		ES_AUTOHSCROLL,
+		150, Y, 130, 20,
 		HwndCustom, NULL, NULL, NULL
 	);
 }

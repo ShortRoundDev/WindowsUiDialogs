@@ -1,0 +1,15 @@
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\bin\Release\netcoreapp3.1\WindowsUIDialogTest.exe
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\bin\Release\netcoreapp3.1\WindowsUIDialogTest.deps.json
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\bin\Release\netcoreapp3.1\WindowsUIDialogTest.runtimeconfig.json
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\bin\Release\netcoreapp3.1\WindowsUIDialogTest.runtimeconfig.dev.json
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\bin\Release\netcoreapp3.1\WindowsUIDialogTest.dll
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\bin\Release\netcoreapp3.1\WindowsUIDialogTest.pdb
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\obj\Release\netcoreapp3.1\WindowsUIDialogTest.AssemblyInfoInputs.cache
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\obj\Release\netcoreapp3.1\WindowsUIDialogTest.AssemblyInfo.cs
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\obj\Release\netcoreapp3.1\WindowsUIDialogTest.dll
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\obj\Release\netcoreapp3.1\WindowsUIDialogTest.pdb
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\obj\Release\netcoreapp3.1\WindowsUIDialogTest.genruntimeconfig.cache
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\obj\Release\netcoreapp3.1\WindowsUIDialogTest.csproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\obj\Release\netcoreapp3.1\WindowsUIDialogTest.csproj.CopyComplete
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogTest\obj\Release\netcoreapp3.1\WindowsUIDialogTest.csprojAssemblyReference.cache

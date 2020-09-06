@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2yoSldfzGvkhbJoJDkSKY7IJINlCKqkQtzA2yVWn6ZMjzayp36YhR3ddn96G3u4zsBZwVrDmi8Kq8FLT55e/5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\colli\\source\\repos\\WindowsUiDialogs\\WindowsUIDialogTest\\WindowsUIDialogTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\colli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

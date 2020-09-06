@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  ColorPicker.cpp
+  Custom.cpp
+  dllmain.cpp
+  OpenFile.cpp
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogs\OpenFile.cpp(9,9): warning C4101: 'OutSize': unreferenced local variable
+  SaveFile.cpp
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogs\SaveFile.cpp(9,9): warning C4101: 'OutSize': unreferenced local variable
+  TextBox.cpp
+  Vector.cpp
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogs\Vector.cpp(81,46): warning C4244: 'argument': conversion from 'LONG_PTR' to 'LONG', possible loss of data
+  WindowsUIDialogs.cpp
+  Generating Code...
+     Creating library C:\Users\colli\source\repos\WindowsUiDialogs\x64\Debug\WindowsUIDialogs.lib and object C:\Users\colli\source\repos\WindowsUiDialogs\x64\Debug\WindowsUIDialogs.exp
+  WindowsUIDialogs.vcxproj -> C:\Users\colli\source\repos\WindowsUiDialogs\x64\Debug\WindowsUIDialogs.dll

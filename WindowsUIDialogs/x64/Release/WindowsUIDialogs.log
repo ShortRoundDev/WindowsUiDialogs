@@ -3,15 +3,16 @@
   Custom.cpp
   dllmain.cpp
   OpenFile.cpp
-c:\users\colli\source\repos\windowsuidialogs\windowsuidialogs\openfile.cpp(9): warning C4101: 'OutSize': unreferenced local variable
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogs\OpenFile.cpp(9,9): warning C4101: 'OutSize': unreferenced local variable
   SaveFile.cpp
-c:\users\colli\source\repos\windowsuidialogs\windowsuidialogs\savefile.cpp(9): warning C4101: 'OutSize': unreferenced local variable
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogs\SaveFile.cpp(9,9): warning C4101: 'OutSize': unreferenced local variable
   TextBox.cpp
   Vector.cpp
-c:\users\colli\source\repos\windowsuidialogs\windowsuidialogs\vector.cpp(81): warning C4244: 'argument': conversion from 'LONG_PTR' to 'LONG', possible loss of data
+C:\Users\colli\source\repos\WindowsUiDialogs\WindowsUIDialogs\Vector.cpp(81,46): warning C4244: 'argument': conversion from 'LONG_PTR' to 'LONG', possible loss of data
   WindowsUIDialogs.cpp
-     Creating library C:\Users\colli\source\repos\WindowsUIDialogs\x64\Release\WindowsUIDialogs.lib and object C:\Users\colli\source\repos\WindowsUIDialogs\x64\Release\WindowsUIDialogs.exp
+     Creating library C:\Users\colli\source\repos\WindowsUiDialogs\x64\Release\WindowsUIDialogs.lib and object C:\Users\colli\source\repos\WindowsUiDialogs\x64\Release\WindowsUIDialogs.exp
   Generating code
+  Previous IPDB not found, fall back to full compilation.
   All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  WindowsUIDialogs.vcxproj -> C:\Users\colli\source\repos\WindowsUIDialogs\x64\Release\WindowsUIDialogs.dll
+  WindowsUIDialogs.vcxproj -> C:\Users\colli\source\repos\WindowsUiDialogs\x64\Release\WindowsUIDialogs.dll
